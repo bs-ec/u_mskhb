@@ -1,4 +1,35 @@
 {
   "v": 2,
-  "items": []
+  "items": [
+    {
+      "maWeb": 26111701,
+      "android": "2.0.90+115",
+      "ios": null,
+      "url": "https://github.com/bs-ec/u_mskhb/releases/download/r26111701/p.bin",
+      "sha256": "9ca858838bd86b071bb22850a70355f765f926ec53e10b3f1249777ff058f7e1",
+      "sig": "gtanCl6jd6Kqj7PzFX4Lz1M1aHJIc0KxdMVS67B6OE/AoqjfkTJNFuLzUwfrzJuqCct5C3yaFX/CRRywaQxJgJ9cnlS6m4+9QRoCMX/2fuYgt2b8V+Szk/rKz2R61zVdVq5KYwhKJjPVuU91u35UXLoZCALCXRAB6bz9Cm7Hfjgntr2ncuypKMo1brVvC+K9yja719BP7MbdV3tD3tMEfefPzOM1YduSopG3IO/JaqQ9bQPF7GqzjTQLEzqU1rmsWaKX7LXKLHXkzGhJ0XS6P8261ARoGXKzU2jtmCUV+gjL0t3/DrO99ZggSBAlLvFKF5/uInosYB/WfODayj52PA==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
+      "maWeb": 26111701,
+      "android": "2.0.69+113",
+      "ios": null,
+      "url": "https://github.com/bs-ec/u_mskhb/releases/download/r26111701/p.bin",
+      "sha256": "9ca858838bd86b071bb22850a70355f765f926ec53e10b3f1249777ff058f7e1",
+      "sig": "gtanCl6jd6Kqj7PzFX4Lz1M1aHJIc0KxdMVS67B6OE/AoqjfkTJNFuLzUwfrzJuqCct5C3yaFX/CRRywaQxJgJ9cnlS6m4+9QRoCMX/2fuYgt2b8V+Szk/rKz2R61zVdVq5KYwhKJjPVuU91u35UXLoZCALCXRAB6bz9Cm7Hfjgntr2ncuypKMo1brVvC+K9yja719BP7MbdV3tD3tMEfefPzOM1YduSopG3IO/JaqQ9bQPF7GqzjTQLEzqU1rmsWaKX7LXKLHXkzGhJ0XS6P8261ARoGXKzU2jtmCUV+gjL0t3/DrO99ZggSBAlLvFKF5/uInosYB/WfODayj52PA==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    },
+    {
+      "maWeb": 26111701,
+      "android": null,
+      "ios": "2.0.90+115",
+      "url": "https://github.com/bs-ec/u_mskhb/releases/download/r26111701/p.bin",
+      "sha256": "9ca858838bd86b071bb22850a70355f765f926ec53e10b3f1249777ff058f7e1",
+      "sig": "gtanCl6jd6Kqj7PzFX4Lz1M1aHJIc0KxdMVS67B6OE/AoqjfkTJNFuLzUwfrzJuqCct5C3yaFX/CRRywaQxJgJ9cnlS6m4+9QRoCMX/2fuYgt2b8V+Szk/rKz2R61zVdVq5KYwhKJjPVuU91u35UXLoZCALCXRAB6bz9Cm7Hfjgntr2ncuypKMo1brVvC+K9yja719BP7MbdV3tD3tMEfefPzOM1YduSopG3IO/JaqQ9bQPF7GqzjTQLEzqU1rmsWaKX7LXKLHXkzGhJ0XS6P8261ARoGXKzU2jtmCUV+gjL0t3/DrO99ZggSBAlLvFKF5/uInosYB/WfODayj52PA==",
+      "batBuoc": false,
+      "ghiChu": "Cải thiện hiệu năng, sửa lỗi"
+    }
+  ]
 }
